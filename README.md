@@ -20,10 +20,9 @@ Provides insight into underlying statistical patterns of the protocol from the p
 
 ## Build
 ```
-$ sudo apt-get install libgsl0-dev
-$ git clone https://github.com/bernardoaraujor/iota_rspammer.git
+$ git clone https://github.com/Thoralf-M/iota_rspammer.git
 $ cd iota_rspammer
-$ cargo build
+$ cargo build --release
 ```
 
 ## Run
